@@ -1,0 +1,279 @@
+Creating tools which will enable us to bridge knowledge gaps within the company by allowing intelligent search via all of Block’s platforms such as Confluence, Coda, etc
+Connect research insights across square from multiple sources into a single source of truth. let me ask questions, and I get answers based on existing documents, seller feedback etc.
+General resource for employees (for sellers): as a resource hub, it could help employees with all their onboarding questions before they start at the company. We could train the AI on the company’s resources.
+Action items after meetings omg please
+"Producing base-level writing for internal work. 
+
+Strategy Docs
+Briefs
+
+Better yet - summarizing long briefs into 1 short focused brief."
+Too many docs to read/ TLDR Summary of docs
+"Sellers
+
+Setting up devices"
+Automate repetitive tasks.
+Employees : Capture seller insights from the internet
+Sellers: tasks and “departments” that smaller sellers may not have the budget for yet, but can boost their business/is helpful until they can hire a dedicated team member: e.g. marketing, social, admin
+AI as an business parter (for sellers): the AI is a smart business partner that proactively suggests actions to improve your business. Always there to help you grow.
+Smarter product recommendations based on explicit seller needs
+Using AI to manage all the orders coming in from every channel a restaurant is connected with
+Sellers: “What should I do to boost sales?”
+Automate the tasks creatives have to do but we dont like doing
+"SELLER PROB:
+
+Inventory issues that AI can help with."
+"Employees
+
+generating lots of ideas. using AI to research competitive landscape more quickly"
+"PAYROLL SELLER: Understanding what federal and state taxes nuances are applicable for my business, and best practices to go about resolving issues
+
+Save time from interacting with CS or finding the answer myself"
+Sellers   Missed business stream opportunities.  Failing business stream . Predictive data or insight to guide their success
+Employees: Generating lots of copy, whether for help articles or agent scripts or email and push notifications
+For employees: Boilerplate code and repetitive coding tasks become much easier using generative ai coding tools  For sellers: more time spent on their business vs admin tasks such as setting up a chat bot, inventory, etc. Audit their digital properties for accessibiliity
+Sellers: custom onboarding. Tell us your business vs go through fields and flows to get set up.
+Automate all the over-head admin tasks that take me away from the stuff i like: designing!
+Make localization tasks at Block faster by utilizing AI Language Models.
+Restaurants: Help me spot opportunities to boost sell-thru and margin
+Square design: AI categorizes and groups ideation sticky notes on your behalf. There are a lot of sticky notes here!
+"SELLER PROBLEM
+
+Help sellers calculate taxes and explain how to be proactive about maximizing their purchases/investments for max benefit"
+Sellers: Suggest actions/tasks based on their business and best practices from others
+Employees: to help solve creative blocks by offering multiple ways in
+Generally elevate the quality of writing for people who aren’t strong writers.
+Summaries for long docs!
+It’s time consuming to create / Block / Square presentation deck templates and layouts
+Less repetitive tasks, more problem solving.
+"Sellers
+
+How can we use Gen AI to help guide Sellers on areas that are not their expertise?
+
+eg. Book keeping, Managing Cashflow, Industry trends?"
+Production design/ localization
+Help square stop fraudsters.
+Square Employees: the process of localization/content adaptation when we launch products across multiple locales (can be error-prone e.g. incorporating translations into UI)
+"Employees
+
+Growth . - how can we use gen AI to iterate fast"
+Sellers: Not having enough time or resources to do marketing.   Gen AI could take all business info + marketing best practices and insights to deliver campaigns. All the Seller has to do is approve and send.
+Employees: Creating content variants for testing
+By creating our own image generation models, we can create text-to-image outputs to mirror Square’s design language and brand (look and feel)
+Sellers : It can help find the right product for feature for needs
+"Sellers: Give them access to knowledge that they’d usually have to outsource for.
+
+Problem: How do they apply that knowledge in their limited time?"
+"A creative collaborative partner that you can bounce off ideas with.
+
+Also defining business and engineering terms that I don’t understand very quickly."
+Employees : Write baseline PRDs as a starting point
+Make me a better writer (the obvious one!)
+"Sellers
+
+TAX!"
+Square employees: Give me an AI bot that automatically answers Product/Eng questions like “Can you do a quick design for X” with just “Nope”  kidding
+Sellers: “How can I modify my business to appeal to another demographic?”
+Sellers: If we could give sellers a personal “guide”/instructor to help them through specific tasks, that could save them a ton of time trying to find and interpret resources
+"Sellers
+
+Mundane tasks like stocktake and inventory?"
+Pull out insights per persona/function
+Creative assets for ads - sellers with no budget can now access high quality imagery
+Layer in customization and personalization depending on the business throughout their workflows (titles, descriptions, ecom, specific reports, etc)
+"SQ sellers
+
+Better budget and rebalance based on business performance, provide insights over variable periods of time"
+Designers: finding a variety of inspiration
+Sellers : It can help find support articles to get things done
+Sellers - lots of very manual and monotonous tasks required to run a business that could be much more efficient! it would save them time for more meaningful parts of their work (+ more time off)
+Employees : Create presentations
+parse large data sets (e.g. what actions lead to a sale most often etc) and display suggestions based on this to sellers so they can better manage their business.
+"SQ sellers
+
+help estimate and prepare for taxes"
+Sellers: Getting the info they need quickly without having to talk to a human and automating content creation
+Help Square sellers discover what they dont’ know, and have a non-judgmental guide to help them grow their business
+Sellers: Generating images
+Employees : Create TL;DRs of data. (ex. snowflake > plain language)
+Employees : Create illustrations that fit our guidelines
+AI as an employee (for sellers): the AI is an employee that helps managers and sellers with their tasks
+Restaurants: Help me work faster
+For seller-facing employees it’s often problematic to not have the right data on hand (account history, customer/business, context, etc.)
+Storyboard, save time sketchy when a robot can generate images quicker and better
+Photo Editing / Retouching.  We have so many shoots and a library that sometimes we wish we could swap a product, remove a detail to make it more useable in creative.   Plus localization has its own set of time consuming tasks to edit.
+"summarizing LONG DOCS
+
+or generate the content in method most befitting your learning preference"
+Sellers: Defining and applying their brand through their visuals and writing for their business.
+"Employees
+
+Map dependencies during AP"
+"SQ sellers
+
+Streamline their bookkeeping process"
+MEETING NOTES! PLEASE!
+Sellers : It can help them create content or libraries (ex. product descriptions, photos, marketing campaigns)
+"SQ sellers
+
+gather insights quickly into the health of their business/ performance"
+Optimize tasks (for sellers): Optimizing repetitive tasks, making sure all shifts are filled, suggesting templates for tasks.
+Employees : Content (images, copy, user names, addresses) for design mockups
+"SQ sellers
+
+ability to search across uploaded content like receipts?"
+"SQ sellers
+
+help me track performance across multiple locations, centralize insights and potentially surface patterns"
+Square: Simple explanation why $SQ is moving in a particular direction
+Suggest better recommendations for food/restaurants you would like
+tone checking myself and my communications
+Content production (image assets, branding, content)
+Possibly improve and iteration cadence by removing some repetitive tasks and frictions.
+Personalizing / creating dynamic experiences for our sellers is hard
+Sellers : Create TL;DRs of data that can lead to actions or activation of more Square tools
+Potentially lower the barrier for entry for starting a business (again letting people focus on the more fun/creative/meaningful parts) -> and enable small businesses to be more competitive with big box stores if their costs are lower and work is more efficient
+Square employees: help me digest and synthesize large knowledge bases
+Better understanding of user behaviour and metrics.
+Square employees: help spot connections between teams and the work they do
+Translate from English to our other markets (French/Spanish/Japanese) to make sure the copy will work for mobile
+"“We study the staggered introduction of a generative AI-based conversational assistant using data from 5,179 customer support agents. Access to the tool increases productivity, as measured by issues resolved per hour, by 14 percent on average, with the greatest impact on novice and low-skilled workers, and minimal impact on experienced and highly skilled workers.”
+
+https://www.nber.org/papers/w31161"
+For square employees working on projects with small budgets for creative assets - this also applies. Mainly for replacing stock imagery. There are also some AI video creation tools like RunwayML that we could start leveraging
+A work buddy when no one is around (e.g., after hours)
+Square employees: help me summarize conversations that have been had around a topic
+Square employees: help me make sense of complex or raw data
+Employees : Better align us on voice and tone within our work.
+Doc summary during meetings (Square): there are so many docs at square. It would be nice to have an LLM summarize them when I don’t have time to read through a doc.
+"Employees: Getting to the baseline quicker for tasks that feel repetitive.
+
+Ways to alter imagery to offer greater control in post-production"
+We don’t need to design and build everything ourselves, like reports. There’s endless reports we could offer depending on the business and their needs.
+Square employees: help me synthesize seller feedback into actionable insights
+We can do hifi shoots, and test a campaign concept with AI generated art
+Help sellers do the things they didn’t start a business to do, but still have to do (e.g., I’m a baker, not someone who knows how to write great job descriptions)
+Remove the blank slate
+For sellers: automatically optimize my site based on current trends or traffic sources.
+Sellers: It can help determine appropriate pricing with it’s broader knowledge
+We cam localize visuals for any locales without spending hundreds of thousands of dollars are planning a shoot
+Respond to slack questions about Market components 🤣
+Designers: build us all portfolio sites
+Ideation around concepts/brainstorming
+Help do competitive research and more in-depth market/ subject area research.
+Sellers: best practices. What are other similar business doing that applies to me? Can save a lot of time from talking to other peers.
+Thinking of the new illustration system - if we had a set of prompts from the brand team which we could then adjust to create new illustrations, that still stick to the illustration style. We don’t have $$$ to hire illustrators most of the time :( Sad face.
+"SELLER PROBLEM
+
+Help sellers understand what marketing efforts are bringing new vs. returning customers. What is worth investing in? What should they stop?"
+Employees: summarize and prioritize emails/slack
+Identifying patterns in sellers behaviour so we can automate more for them / identify opportunities
+Restaurants: Help me train new employees
+Super fast video creation.
+"Educational tools. 
+Sellers are at multiple stages of literacy. How can we create parity?"
+write our design system documentation / guidelines??
+Sellers: Easier customization of things like alerts, reports, smart groups - just describe what you want - don’t need to decipher a series of settings.
+For sellers: Workflow automation. Remove repetitive/redundant tasks
+For employees and probably sellers too :) - So much to do so little time
+I would loooove to have something like this—SO MANY DOCS
+Make the internal / company wiki easier to search through / find answers to
+Start to automate processes
+"Square employees:
+Give me an AI bot that i can bounce ideas off -> don’t solve the problem for me, rather get me thinking more deeply by asking provocative questions.  Spoiler: I got a prompt for that xD; but would be better if it’s leveraging square data"
+"Sellers
+
+Understanding how price changes (increases) will impact demand"
+Employees: There’s so much disconnect between all of our product areas, would be great to have a way to bubble up and connect project teams where there’s overlap.
+"Interpret biz data for sellers and create value
+
+how am i doing?
+am i ready to do (x)
+what’s keeping me from doing (y)"
+SELLER PROBLEM  Making sense of data. Sellers often complain they see a ton of data and information but they crave actionable insights. “What can I do about this?”
+Sellers: write marketing copy for them
+RST sellers using AI to build their menus quickly
+Sellers need to be everything in a business until they don’t have to be. How can we help them save time and automate the parts they have to do all the time?
+Sellers don’t know how to make proper SQ online websites, looks bad
+Employees: Absorb and summarize large amounts of data for immediate  insights
+Employees: Help to focus more on strong ideas/prompts, with AI amplifying execution and making it more efficient.
+Address skills gaps the seller or their staff don’t necessarily have on hand or have budget to allocate towards
+"SELLER PROB:
+Being able to communicate with their customers, and team members more efficiently."
+Employees: automatic meeting notes
+"SELLER PROBLEM
+Answer specific, localized questions. For example, sellers often want to know how they are doing compared to their competitors or even businesses nearby."
+"Sq employees:
+
+Work collaboratively in early exploration, generative stages of design process. Expand ideas, identify new opportunities, potential blind spots"
+Add multiple languages
+"Employees (+ Sellers)
+
+How can we use Gen AI for more targeting marketing?
+
+The right message
+to the right people
+at the right time."
+Square Employees: closing in the gaps on async work, like potential miscommunications, missing context
+Any content creation really - blog posts, assets. For sellers with little resources, gen-AI is a huge benefit.
+Get ideas flowing and understand certain audience personas
+Use AI to review our experiences to ensure we’ve met accessibility standards, best practices
+"AI can be used to create custom UI that is perfect for their business.
+
+If they just need two tems selector and a payment tap, that’s all you need"
+Generate more ways to experiences content (docs etc), in a summery form or expanded for technical (or discipline related) detail.
+Supporting our team and our sellers with neurodiversity accomplish tasks. Like people with learning differences edit docs.
+To help prospective business owners to holistically understand the opportunities and risks that go into running a business.  Helping to develop a business plan.  Understanding the necessary requirments for a specific locale.
+Writing check - do my ideas make sense? / Am I explaining them well?
+"SELLER PROBLEM
+
+help sellers write a business plan and adjust it based on scenario planning"
+"Help evaluate the markets/ trends to determine areas of macro risk for square.
+
+Like shortages in snowfall could lead to more disputes at ski resorts. Square/ those resorts could find that out early to prepare."
+For sellers: Drive more buyer demand.
+For sellers: accelerate setup time
+Sellers: Easily generate a broad range of brand ideas, mood boards, logos, slogans
+"Operational efficiency and standardization!
+
+repetitive tasks
+give me a nudge when i’m doing something out of the ordinary"
+Business co pilot.
+slack thread or slack channel summaries
+Sellers: Generative AI can offer templates for business tools (ie. websites, marketing campaigns, automated messaging) that require time spent approving, rather than executing.
+"Content generation for non-design roles (Ops, Policy, etc.) 
+
+or at least a starting point ;)"
+Support is expensive and requires a lot of training. AI could do this better / cheaper
+For sellers: Less problems, more solutions
+Have my work and ideas  critiques without it feeling personal
+"For Squares AND Sellers:
+Writer’s block"
+Wireframe flows for me, leveraging our design system. I can just input the components I wanna see, the flow/story I’m designing
+Generate storyboards so I can get a feel for the E2E concept with just the bones of a story/script
+"Designs could be mor fully be check for accessibility.
+
+Like evaluating for all types of color blindness not just for overall contrast."
+"RTL SELLER PROB:
+
+Being able to find better producers/distributers for their products and communicate with them in a timely fashion when time zones are an issue."
+Sellers can have the most painful parts of their business, automated, augmented, or assisted.  e.g. replying to angry e-mails. Trigger warning on all your e-mails
+starter templates for everything (PRDs, job descriptions, etc)
+Breaking down complex ideas and simplifying them so I can understand them with my neurodiverse brain.
+Employees: Solve creative problems that are so easy to describe what you want, but is only limited by your ability to execute.
+Sellers can get customized pricing and product recommendations, without having to speak to a sales rep.  CLEAR PRICING!
+"SELLER PROB
+i have to dig thru support to find my answer and then figure how it applies to me and what to do about it
+
+>>>
+
+Contextualized support answers based on my PI, sq history, etc."
+Sellers: Personal business advisor to make better decisions
+"SELLER PROB
+creating video content is super manual and/or expensive
+
+>>>
+
+shoot video and have AI edit it for your socials :)"
+Employees: Create animated gifs via text inputs.
+the opposite of this is how are we limiting our future selves by relying on AI to much. However, that always spurs into learning new skills we don’t know about yet
